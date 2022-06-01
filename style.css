@@ -45,3 +45,14 @@ body {
   font-size: 16px;
   opacity: 70%;
 }
+
+@media (max-width: 760px) {
+  body {
+    padding: 10px;
+  }
+
+  .container {
+    margin-top: 50px;
+    margin-left: 15px;
+  }
+}
